@@ -15,3 +15,5 @@ class DataSource {
 }
 
 export default DataSource;
+
+// menghubungkan penyimpanan data

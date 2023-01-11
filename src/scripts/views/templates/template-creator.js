@@ -85,7 +85,7 @@ const createAboutTemplate = () => `
       <img class="rounded-circle mx-auto" src="../image/faiz_profile.jpeg" alt="Generic placeholder image" width="200" height="200">
       <div class="card-body">
         <h2>Faiz Gunawan</h2>
-        <p>Front End</p>
+        <p>Front End & Back End</p>
         <p><a class="btn btn-secondary " href="https://www.linkedin.com/in/faiz-gunawan/" target="_blank" role="button">Connect »</a></p>
       </div>
     </div>
