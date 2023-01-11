@@ -76,7 +76,7 @@ const Home = {
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-header text-center pb-5">
-                            <h2>Jobs Catagory</h2>
+                            <h2>Jobs Category</h2>
                             <p>Cari lowongan pekerjaan berdasarkan kategori</p>
                         </div>
                     </div>
